@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ExercicioEnumEComp.exe
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ExercicioEnumEComp.deps.json
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ExercicioEnumEComp.runtimeconfig.json
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ExercicioEnumEComp.dll
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ref\ExercicioEnumEComp.dll
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net6.0\ExercicioEnumEComp.pdb
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.AssemblyInfo.cs
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.dll
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ref\ExercicioEnumEComp.dll
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.pdb
+C:\Temp\ws-vs2021\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net6.0\ExercicioEnumEComp.genruntimeconfig.cache
