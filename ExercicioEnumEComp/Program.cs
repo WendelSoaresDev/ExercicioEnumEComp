@@ -19,7 +19,7 @@ namespace ExercicioEnumEComp
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             //instanciando o objeto worker com um outro objeto ligado (departament)
-            Departament dept = new Departament(name);
+            Departament dept = new Departament(deptname);
             Worker worker = new Worker(name, level, baseSalary, dept);
 
             Console.Write("How many contracts to this worker? ");
@@ -28,11 +28,11 @@ namespace ExercicioEnumEComp
             for (int i = 1; i <= n; i++ )
             {
                 Console.WriteLine($"Enter #{i} contract data: ");
-                Console.Write("DD/MM/YYYY: ");
+                Console.Write("Date DD/MM/YYYY: ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
                 Console.Write("Value per Hour: ");
                 double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                Console.Write("Duration(hours):;");
+                Console.Write("Duration(hours):");
                 int hours = int.Parse(Console.ReadLine());
 
                 HourContract contract = new HourContract(date, valuePerHour, hours); //instanciando o contrato com os parametros do segundo construtor 
@@ -50,7 +50,7 @@ namespace ExercicioEnumEComp
 
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Departament.Name);
-            Console.WriteLine("income for " + monthAndYear + ": " + worker.Income(year, month));
+            Console.WriteLine("income for: " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
