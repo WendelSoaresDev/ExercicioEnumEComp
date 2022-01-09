@@ -44,8 +44,9 @@ namespace ExercicioEnumEComp.Entities
                     sum += contract.TotalValue();
                 }
 
-                return sum;
+                
             }
+            return sum;
 
         }
     }
