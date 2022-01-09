@@ -8,6 +8,7 @@ namespace ExercicioEnumEComp.Entities
         public double ValuePerHour { get; set; }
         public int Hours { get; set; }
 
+        public Departament Departament { get; set; } // composição de objetos 
         public HourContract()
         {
         }
